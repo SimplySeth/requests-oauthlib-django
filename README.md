@@ -1,2 +1,3 @@
 # requests-oauthlib-django
-Using requests-oauthlib for Django
+This is how I employed authentication against Pingfederate SSO using the requests-oauthlib Python module. 
+
